@@ -1,4 +1,4 @@
-# Qleet
+[<img src="img/qleet-logo-light-blue-narrow.jpg">](https://qleet.io/)
 
 [Qleet](https://qleet.io/) offers fully managed
 [Threeport](https://www.threeport.io/) control planes as-a-service.
