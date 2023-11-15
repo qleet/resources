@@ -6,3 +6,6 @@
 Here you will find public releases for our `qleetctl` command line tool and
 other resources to help you get started.
 
+Refer to the [Qleet user documentation](https://docs.qleet.io/) for instructions
+on using Qleet.
+
